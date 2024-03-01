@@ -40,7 +40,7 @@ object Conversor: TConversor
   object lbl_resultado: TLabel
     Left = 407
     Top = 328
-    Width = 315
+    Width = 307
     Height = 25
     Alignment = taCenter
     Font.Charset = DEFAULT_CHARSET

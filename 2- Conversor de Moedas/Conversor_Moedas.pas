@@ -34,13 +34,13 @@ var
   valor_BRL, valor_USD: Double;
   taxa_cambio: Double;
 begin
-  taxa_cambio := 4.95;
+  taxa_cambio := 5;
 
-  valor_BRL := StrToFloatDef(field_valor.Text, 0);
+  valor_USD := StrToFloatDef(field_valor.Text, 0);
 
-  valor_USD := valor_BRL * taxa_cambio;
+  valor_BRL := valor_USD * taxa_cambio;
 
-  lbl_resultado.Caption := Format('%.2f reais é igual a %.2f dólares.', [valor_BRL, valor_USD]);
+  lbl_resultado.Caption := Format('%.2f dólares é igual a %.2f reais.', [valor_USD, valor_BRL]);
 end;
 
 procedure TConversor.Limpar(Sender: TObject);
