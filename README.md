@@ -2,7 +2,7 @@
 
 1. [x] **Calculadora Simples:** Criar um formulário com dois campos de entrada para os números e botões para as operações de adição, subtração, multiplicação e divisão.
 
-2. [x] **Conversor de Moeda:** Criar um formulário que permita ao usuário inserir um valor em real brasileiro (BRL) e convertê-lo para dólar americano (USD) utilizando uma taxa de câmbio fixa.
+2. [x] **Conversor de Moeda:** Criar um formulário que permita ao usuário inserir um valor em dólar (USD) e convertê-lo para Real brasileiro (BRL) utilizando uma taxa de câmbio fixa.
 
 3. [ ] **Cadastro de Clientes:** Desenvolver um formulário para cadastrar clientes com campos para nome, sobrenome, e-mail, telefone e genero.
 
