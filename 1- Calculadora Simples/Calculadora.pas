@@ -60,11 +60,11 @@ end;
 // Multiplicação
 procedure TCalculadora_simples.Click_multiplicacao(Sender: TObject);
 var
-  numero1, num2, resultado: Double;
+  numero1, numero2, resultado: Double;
 begin
   numero1 := StrToFloat(n1.Text);
-  num2 := StrToFloat(n2.Text);
-  resultado := numero1 * num2;
+  numero2 := StrToFloat(n2.Text);
+  resultado := numero1 * numero2;
   lbl_resultado.Caption := Format('Resulado: %.2F', [resultado]);
 end;
 
