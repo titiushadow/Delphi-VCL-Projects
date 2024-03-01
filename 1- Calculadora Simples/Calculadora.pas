@@ -17,6 +17,8 @@ type
     n1: TEdit;
     lbl_resultado: TLabel;
     Button1: TButton;
+    lbl_n1: TLabel;
+    lbl_n2: TLabel;
     procedure Adicao_Click(Sender: TObject);
     procedure Click_subtracao(Sender: TObject);
     procedure Click_multiplicacao(Sender: TObject);

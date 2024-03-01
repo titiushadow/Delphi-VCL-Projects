@@ -36,11 +36,38 @@ object Calculadora_simples: TCalculadora_simples
     Font.Style = [fsBold]
     ParentFont = False
   end
+  object lbl_n1: TLabel
+    Left = 449
+    Top = 155
+    Width = 111
+    Height = 20
+    Caption = 'Primeiro numero:'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -15
+    Font.Name = 'Segoe UI'
+    Font.Style = [fsItalic]
+    ParentFont = False
+  end
+  object lbl_n2: TLabel
+    Left = 449
+    Top = 235
+    Width = 110
+    Height = 20
+    Caption = 'Segundo numero:'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -15
+    Font.Name = 'Segoe UI'
+    Font.Style = [fsItalic]
+    ParentFont = False
+  end
   object n1: TEdit
     Left = 449
-    Top = 184
+    Top = 181
     Width = 210
     Height = 35
+    Alignment = taCenter
     AutoSize = False
     Font.Charset = DEFAULT_CHARSET
     Font.Color = clWindowText
@@ -54,9 +81,10 @@ object Calculadora_simples: TCalculadora_simples
   end
   object n2: TEdit
     Left = 449
-    Top = 248
+    Top = 261
     Width = 210
     Height = 35
+    Alignment = taCenter
     AutoSize = False
     Font.Charset = DEFAULT_CHARSET
     Font.Color = clWindowText
