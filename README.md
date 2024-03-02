@@ -6,7 +6,7 @@
 
 3. [x]  **Relógio Digital:** Criar um formulário que exiba um relógio digital atualizado em tempo real.
 
-4. [ ] **Lista de Tarefas:** Criar um formulário onde o usuário possa adicionar, remover e visualizar uma lista de tarefas a serem feitas.
+4. [x] **Lista de Tarefas:** Criar um formulário onde o usuário possa adicionar, remover e visualizar uma lista de tarefas a serem feitas.
 
 5. [ ] **Jogo de Adivinhação:** Desenvolver um jogo simples onde o computador gera um número aleatório e o jogador tenta adivinhar qual é. O jogo vai ter 3 niveis de dificuldade **(Fácil, Médio e Dificil)**.
 
