@@ -8,10 +8,10 @@
 
 4. [x] **Lista de Tarefas:** Criar um formulário onde o usuário possa adicionar, remover e visualizar uma lista de tarefas a serem feitas.
 
-5. [ ] **Jogo de Adivinhação:** Desenvolver um jogo simples onde o computador gera um número aleatório e o jogador tenta adivinhar qual é. O jogo vai ter 3 niveis de dificuldade **(Fácil, Médio e Dificil)**.
+5. [ ] **Cronômetro:** Criar um cronometro simples com os botões Inicio e Parar.
 
 6. [ ] **Calculadora de IMC:** Criar um formulário que permita ao usuário inserir seu peso e altura e calcule seu índice de massa corporal (IMC).
 
-7. [ ] **Cronômetro:** Criar um cronometro simples com os botões Inicio e Parar.
+7. [ ] **Jogo de Adivinhação:** Desenvolver um jogo simples onde o computador gera um número aleatório e o jogador tenta adivinhar qual é. O jogo vai ter 3 niveis de dificuldade **(Fácil, Médio e Dificil)**.
 
 8. [ ] **Quiz:** Criar um Quiz com 10 Perguntas sobre **Friends**.
